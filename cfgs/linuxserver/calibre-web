@@ -1,0 +1,26 @@
+# Docker: https://hub.docker.com/r/linuxserver/calibre-web
+# Github: https://github.com/linuxserver/docker-calibre-web
+# Source: https://github.com/janeczku/calibre-web
+linuxserver/calibre-web:latest
+linuxserver/calibre-web:0.6.23-ls288, version-0.6.23, 0.6.23, latest
+linuxserver/calibre-web:0.6.23-ls287, version-0.6.23, 0.6.23, latest
+linuxserver/calibre-web:0.6.23-ls286, version-0.6.23, 0.6.23, latest
+linuxserver/calibre-web:0.6.23-ls285, version-0.6.23, 0.6.23, latest
+linuxserver/calibre-web:0.6.23-ls284, version-0.6.23, 0.6.23, latest
+linuxserver/calibre-web:0.6.23-ls283, version-0.6.23, 0.6.23, latest
+linuxserver/calibre-web:0.6.23-ls282, version-0.6.23, 0.6.23, latest
+linuxserver/calibre-web:0.6.23-ls281, version-0.6.23, 0.6.23, latest
+linuxserver/calibre-web:0.6.22-ls280, version-0.6.22, 0.6.22, latest
+linuxserver/calibre-web:0.6.22-ls279, version-0.6.22, 0.6.22, latest
+linuxserver/calibre-web:0.6.22-ls278, version-0.6.22, 0.6.22, latest
+linuxserver/calibre-web:0.6.22-ls277, version-0.6.22, 0.6.22, latest
+linuxserver/calibre-web:0.6.22-ls276, version-0.6.22, 0.6.22, latest
+linuxserver/calibre-web:0.6.21-ls274, version-0.6.21, 0.6.21, latest
+linuxserver/calibre-web:0.6.21-ls273, version-0.6.21, 0.6.21, latest
+linuxserver/calibre-web:0.6.21-ls272, version-0.6.21, 0.6.21, latest
+linuxserver/calibre-web:0.6.21-ls271, version-0.6.21, 0.6.21, latest
+linuxserver/calibre-web:0.6.21-ls270, version-0.6.21, 0.6.21, latest
+linuxserver/calibre-web:0.6.21-ls269, version-0.6.21, 0.6.21, latest
+linuxserver/calibre-web:0.6.21-ls268, version-0.6.21, 0.6.21, latest
+linuxserver/calibre-web:0.6.21-ls267, version-0.6.21, 0.6.21, latest
+linuxserver/calibre-web:0.6.21-ls266, version-0.6.21, 0.6.21, latest

@@ -1,0 +1,20 @@
+# Docker: https://hub.docker.com/r/adguard/adguardhome
+# Github: https://github.com/AdguardTeam/AdGuardHome
+# Website: https://adguard.com/adguard-home.html
+adguard/adguardhome:latest
+adguard/adguardhome:beta
+adguard/adguardhome:v0.108.0-b.57, beta
+adguard/adguardhome:v0.108.0-b.56, beta
+adguard/adguardhome:v0.107.52, latest
+adguard/adguardhome:v0.107.51, latest
+adguard/adguardhome:v0.107.50, latest
+adguard/adguardhome:v0.107.49, latest
+adguard/adguardhome:v0.107.48, latest
+adguard/adguardhome:v0.107.47, latest
+adguard/adguardhome:v0.107.46, latest
+adguard/adguardhome:v0.107.45, latest
+adguard/adguardhome:v0.107.44, latest
+adguard/adguardhome:v0.107.43, latest
+adguard/adguardhome:v0.107.42, latest
+adguard/adguardhome:v0.107.41, latest
+adguard/adguardhome:v0.107.40, latest
