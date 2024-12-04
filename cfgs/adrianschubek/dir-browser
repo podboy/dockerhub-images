@@ -3,6 +3,10 @@
 # Website: https://dir.adriansoftware.de/
 # Preview: https://dir-demo.adriansoftware.de/
 adrianschubek/dir-browser:latest
+adrianschubek/dir-browser:3.9.1, latest
+adrianschubek/dir-browser:3.9.0, latest
+adrianschubek/dir-browser:3.8.1, latest
+adrianschubek/dir-browser:3.8.0, latest
 adrianschubek/dir-browser:3.7.0, latest
 adrianschubek/dir-browser:3.6.1, latest
 adrianschubek/dir-browser:3.6.0, latest
