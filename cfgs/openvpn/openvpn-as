@@ -2,6 +2,7 @@
 # Github: https://github.com/OpenVPN/as-docker
 # Website: https://openvpn.net/access-server/
 openvpn/openvpn-as:latest
+openvpn/openvpn-as:2.14.1-ff013d4d-Ubuntu22, latest
 openvpn/openvpn-as:2.14.0-b90cb316-Ubuntu22, latest
 openvpn/openvpn-as:2.13.1-d8cdeb9c-Ubuntu22, latest
 openvpn/openvpn-as:2.13.0-c7623b5a-Ubuntu22, latest
