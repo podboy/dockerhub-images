@@ -3,6 +3,8 @@
 # Github: https://github.com/jgraph/drawio
 # Website: https://www.drawio.com/
 jgraph/drawio:latest
+jgraph/drawio:24.7.17, latest
+jgraph/drawio:24.7.16, latest
 jgraph/drawio:24.7.8, latest
 jgraph/drawio:24.7.5, latest
 jgraph/drawio:24.7.1, latest
