@@ -4,6 +4,9 @@
 # Preview: https://demo.filegator.io/
 # Documentation: https://docs.filegator.io/
 filegator/filegator:latest
+filegator/filegator:v7.12.0, latest
+filegator/filegator:v7.11.1, latest
+filegator/filegator:v7.11.0, latest
 filegator/filegator:v7.10.1, latest
 filegator/filegator:v7.10.0, latest
 filegator/filegator:v7.9.3, latest
