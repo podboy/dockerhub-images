@@ -3,8 +3,15 @@
 # Website: https://adguard.com/adguard-home.html
 adguard/adguardhome:latest
 adguard/adguardhome:beta
+adguard/adguardhome:v0.108.0-b.61, beta
+adguard/adguardhome:v0.108.0-b.60, beta
+adguard/adguardhome:v0.108.0-b.59, beta
+adguard/adguardhome:v0.108.0-b.58, beta
 adguard/adguardhome:v0.108.0-b.57, beta
 adguard/adguardhome:v0.108.0-b.56, beta
+adguard/adguardhome:v0.107.55, latest
+adguard/adguardhome:v0.107.54, latest
+adguard/adguardhome:v0.107.53, latest
 adguard/adguardhome:v0.107.52, latest
 adguard/adguardhome:v0.107.51, latest
 adguard/adguardhome:v0.107.50, latest
