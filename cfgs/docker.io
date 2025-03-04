@@ -11,7 +11,6 @@ import openvpn
 import dannyben
 import filegator
 import ltbproject
-import gollumwiki
 import photoprism
 import mingzhebaosheng
 import adrianschubek
